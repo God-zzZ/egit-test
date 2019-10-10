@@ -6,4 +6,9 @@ public class Test {
 		
 	}
 	
+	public void testDev() {
+		// dev分支创建的方法
+	}
+
+	
 }
